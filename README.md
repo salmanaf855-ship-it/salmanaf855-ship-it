@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Halo, saya Salman Al Farisi!
 
-<!--
-**salmanaf855-ship-it/salmanaf855-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fresh Graduate Teknik Informatika
+- 🌱 Sedang mempelajari Laravel, Data Science, dan Machine Learning  
+- 🧠 Fokus penelitian: *Prediksi Harga Bawang Merah dengan Regresi Linear*  
+- 💻 Sedang membangun sistem prediksi harga berbasis website  
+- 📚 Aktif membuat proyek kecil untuk meningkatkan skill
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:**  
+`PHP` • `JavaScript` • `Python` • `SQL`
+
+**Frameworks & Tools:**  
+`Laravel` • `Filament` • `Vite` • `Node.js` • `Git`
+
+---
+
+## 📊 GitHub Stats
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true)
+
+---
+
+## 🔗 Connect with me
+[Instagram](https://instagram.com/) • [LinkedIn](https://linkedin.com/) • [Portfolio Website](#)
+
