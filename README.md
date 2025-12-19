@@ -36,6 +36,27 @@
 
 ---
 
+## 📊 Skill Distribution
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['HTML (90%)','CSS (70%)','Tailwind (30%)','Python (30%)','Laravel (50%)','PHP (50%)','MySQL (60%)'],
+      datasets:[{
+        data:[90,70,30,30,50,50,60]
+      }]
+    },
+    options:{
+      plugins:{
+        legend:{position:'bottom'}
+      }
+    }
+  }" width="450"/>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -74,7 +95,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
 
 <p align="center"><i>"Code is poetry — each function tells a story."</i></p>
 
