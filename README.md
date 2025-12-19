@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Salman Afandi | Full-Stack Developer</h1>
+<h1 align="center">👨‍💻 Salman Al Farisi | Full-Stack Developer</h1>
 <p align="center">Crafting digital solutions with modern tech stacks — passionate about clean code, scalable systems, and intuitive user experiences.</p>
 
 <p align="center">
@@ -67,16 +67,14 @@
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:salmanaf855@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://instagram.com/salm4n_4f">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 <p align="center"><i>"Code is poetry — each function tells a story."</i></p>
 
