@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Salman Al Farisi | Full-Stack Developer</h1>
+<h1 align="center">👨‍💻 Salman Al Farisi</h1>
 <p align="center">Crafting digital solutions with modern tech stacks — passionate about clean code, scalable systems, and intuitive user experiences.</p>
 
 <p align="center">
