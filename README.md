@@ -60,37 +60,19 @@
 
 <div align="center">
   
-  <!-- Static badges yang selalu muncul -->
-  <img src="https://img.shields.io/badge/Total_Repositories-5-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active-10b981?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-FullStack_Development-8b5cf6?style=for-the-badge"/>
+  **Repositori:** `5+` &nbsp;|&nbsp; **Status:** `Active` &nbsp;|&nbsp; **Fokus:** `FullStack Development`
   
-  <br/><br/>
+  ---
   
-  <!-- Profile views counter (pake service lain) -->
-  <img src="https://visitcount.itsvg.in/api?id=salmanaf855-ship-it&label=Profile%20Views&color=6&icon=5&pretty=true"/>
+  **Tech Stack:** `PHP` • `Python` • `JavaScript` • `Laravel` • `Django` • `Tailwind`
   
-  <br/><br/>
+  ---
   
-  <!-- Simple Stats Card (dibuat manual, pasti muncul) -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_Projects-5+-6366f1?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻_Tech_Stack-PHP,_Python,_JS-10b981?style=flat-square"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Focus-Backend-8b5cf6?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
+  **Projects:** `E-Commerce Platform` • `Analytics Dashboard` • `Task Management App` • `Portfolio CMS`
   
-  <br/>
+  ---
   
-  <!-- Pesan transparan -->
-  > ⚠️ *GitHub API saat ini sedang rate-limited. Stats akan muncul otomatis dalam beberapa jam.*
+  > ⚠️ *GitHub API sedang rate-limited. Statistik detail akan muncul dalam beberapa jam.*
   
 </div>
 
