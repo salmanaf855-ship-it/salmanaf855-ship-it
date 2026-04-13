@@ -2,7 +2,7 @@
 <p align="center">Crafting digital solutions with modern tech stacks — passionate about clean code, scalable systems, and intuitive user experiences.</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Space&animation=fadeIn&fontSize=40&fontAlignY=35" />
+ 
 </p>
 
 ---
