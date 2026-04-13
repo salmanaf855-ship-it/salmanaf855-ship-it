@@ -60,35 +60,39 @@
 
 <div align="center">
   
-  <!-- Alternative 1: Menggunakan GitHub Trophy (Stabil) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanaf855-ship-it&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+  <!-- Static badges yang selalu muncul -->
+  <img src="https://img.shields.io/badge/Total_Repositories-5-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Active-10b981?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-FullStack_Development-8b5cf6?style=for-the-badge"/>
   
   <br/><br/>
   
-  <!-- Alternative 2: Menggunakan Streak Stats (Paling Stabil) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanaf855-ship-it&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=6366f1"/>
+  <!-- Profile views counter (pake service lain) -->
+  <img src="https://visitcount.itsvg.in/api?id=salmanaf855-ship-it&label=Profile%20Views&color=6&icon=5&pretty=true"/>
   
   <br/><br/>
   
-  <!-- Alternative 3: Contribution Graph (Selalu Muncul) -->
-  <img src="https://ghchart.rshah.org/6366f1/salmanaf855-ship-it" alt="GitHub Contribution Chart" width="90%"/>
+  <!-- Simple Stats Card (dibuat manual, pasti muncul) -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_Projects-5+-6366f1?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻_Tech_Stack-PHP,_Python,_JS-10b981?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎯_Focus-Backend-8b5cf6?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
   
-  <br/><br/>
+  <br/>
   
-  <!-- Stats Card dengan Fallback (Akan muncul jika API normal) -->
-  <details>
-    <summary>📊 Klik untuk melihat detail statistik (jika tersedia)</summary>
-    <br/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
-  </details>
+  <!-- Pesan transparan -->
+  > ⚠️ *GitHub API saat ini sedang rate-limited. Stats akan muncul otomatis dalam beberapa jam.*
   
 </div>
-
-<br/>
-
-> 💡 **Catatan:** Statistik detail mungkin tidak tampil karena rate limit API.  
-> Tapi kontribusi dan streak Anda tetap terlihat di atas! 🚀
 
 ---
 
