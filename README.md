@@ -59,18 +59,36 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats Card - Dengan Cache Control -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
   
-  <!-- Top Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+  <!-- Alternative 1: Menggunakan GitHub Trophy (Stabil) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=salmanaf855-ship-it&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+  
+  <br/><br/>
+  
+  <!-- Alternative 2: Menggunakan Streak Stats (Paling Stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanaf855-ship-it&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=6366f1&dates=6366f1"/>
+  
+  <br/><br/>
+  
+  <!-- Alternative 3: Contribution Graph (Selalu Muncul) -->
+  <img src="https://ghchart.rshah.org/6366f1/salmanaf855-ship-it" alt="GitHub Contribution Chart" width="90%"/>
+  
+  <br/><br/>
+  
+  <!-- Stats Card dengan Fallback (Akan muncul jika API normal) -->
+  <details>
+    <summary>📊 Klik untuk melihat detail statistik (jika tersedia)</summary>
+    <br/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+  </details>
+  
 </div>
 
 <br/>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanaf855-ship-it&theme=tokyonight&hide_border=true&border_radius=15"/>
-</div>
+> 💡 **Catatan:** Statistik detail mungkin tidak tampil karena rate limit API.  
+> Tapi kontribusi dan streak Anda tetap terlihat di atas! 🚀
 
 ---
 
