@@ -59,9 +59,10 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=1a1b27"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&bg_color=1a1b27"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=radical&hide_border=true&ring=6366f1&icon=6366f1&bg_color=0d1117"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 </div>
+
 <br/>
 
 <div align="center">
