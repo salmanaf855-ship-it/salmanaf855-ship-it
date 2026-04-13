@@ -59,8 +59,11 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=radical&hide_border=true&ring=6366f1&icon=6366f1&bg_color=0d1117"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <!-- Stats Card - Dengan Cache Control -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+  
+  <!-- Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 </div>
 
 <br/>
