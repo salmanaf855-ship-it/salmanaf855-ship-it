@@ -60,80 +60,56 @@
 
 <div align="center">
   
-  <!--- Stats Cards Elegant --->
-  <table align="center">
-    <tr>
-      <td align="center" width="200">
-        <strong>📦 Repositories</strong><br>
-        <font size="5">5+</font>
-      </td>
-      <td align="center" width="200">
-        <strong>⚡ Status</strong><br>
-        <font size="5">Active</font>
-       </td>
-      <td align="center" width="200">
-        <strong>🎯 Focus</strong><br>
-        <font size="5">FullStack</font>
-       </td>
-    </tr>
-   </table>
-
-  <br/>
-
-  <!--- Tech Stack --->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <code>PHP</code> • <code>Python</code> • <code>JavaScript</code><br>
-        <code>Laravel</code> • <code>Django</code> • <code>Tailwind</code>
-       </td>
-    </tr>
-   </table>
-
-  <br/>
-
-  <!--- Featured Projects --->
-  <table align="center">
-    <tr>
-      <td align="center">
-        🛒 &nbsp; <strong>E-Commerce</strong> &nbsp; |
-        📊 &nbsp; <strong>Dashboard</strong> &nbsp; |
-        📋 &nbsp; <strong>Task Manager</strong> &nbsp; |
-        🌐 &nbsp; <strong>Portfolio CMS</strong>
-       </td>
-    </tr>
-   </table>
-
-  <br/>
-
-  <!--- Decorative Line --->
-  <img src="https://custom-icon-badges.demolab.com/badge/-------------------------*-*?color=6366f1&style=flat-square"/>
-
-  <br/>
-
-  <!--- Status Message --->
-  <sub>
-    ⚠️ <em>GitHub API sedang rate-limited — statistik detail akan muncul dalam beberapa jam</em>
-  </sub>
-
-  <br/><br/>
-
-  <!--- Profile Views --->
-  <img src="https://komarev.com/ghpvc/?username=salmanaf855-ship-it&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
+  <!-- Glassmorphism Style Stats -->
+  <p align="center">
+    <samp>
+      <strong>📦 5+</strong> &nbsp;|&nbsp;
+      <strong>⚡ Active</strong> &nbsp;|&nbsp;
+      <strong>🎯 FullStack</strong>
+    </samp>
+  </p>
   
-  <br/>
-
-  <!--- Social Badges --->
-  <a href="mailto:salmanaf855@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/salm4n_4f">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/salmanaf855-ship-it">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  </a>
-
+  <!-- Tech Stack with Borders -->
+  <p align="center">
+    <samp>
+      [ PHP • Python • JavaScript ]<br>
+      [ Laravel • Django • Tailwind ]
+    </samp>
+  </p>
+  
+  <!-- Projects Grid -->
+  <p align="center">
+    <samp>
+      🛒 E-Commerce &nbsp;✦&nbsp;
+      📊 Dashboard &nbsp;✦&nbsp;
+      📋 Task Manager &nbsp;✦&nbsp;
+      🌐 Portfolio CMS
+    </samp>
+  </p>
+  
+  <!-- Divider -->
+  <p align="center">
+    <samp>❖ ❖ ❖</samp>
+  </p>
+  
+  <!-- Elegant Note -->
+  <p align="center">
+    <samp>
+      <sub>
+        ⚡ <em>GitHub API rate-limited — detailed stats will appear soon</em>
+      </sub>
+    </samp>
+  </p>
+  
+  <!-- Footer -->
+  <p align="center">
+    <sub>
+      <a href="mailto:salmanaf855@gmail.com">✉️</a> &nbsp;•&nbsp;
+      <a href="https://instagram.com/salm4n_4f">📸</a> &nbsp;•&nbsp;
+      <a href="https://github.com/salmanaf855-ship-it">🐙</a>
+    </sub>
+  </p>
+  
 </div>
 
 ---
