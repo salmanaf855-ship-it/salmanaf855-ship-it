@@ -59,32 +59,81 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
-| 📦 Total Repositories | ⚡ Status | 🎯 Focus |
-|:---:|:---:|:---:|
-| **5+** | **Active** | **FullStack** |
-
-| 💻 Tech Stack | 🚀 Projects |
-|:---:|:---:|
-| PHP • Python • JavaScript • Laravel • Django | E-Commerce • Dashboard • CMS |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <i>
-    ⚠️ GitHub API saat ini sedang rate-limited.  
-    Statistik detail (commits, stars, dll) akan muncul otomatis dalam beberapa jam.
-  </i>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=6366f1&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsalmanaf855-ship-it&logo=github&style=for-the-badge"/>
   
-  <img src="https://img.shields.io/badge/dynamic/json?color=10b981&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsalmanaf855-ship-it&logo=github&style=for-the-badge"/>
+  <!--- Stats Cards Elegant --->
+  <table align="center">
+    <tr>
+      <td align="center" width="200">
+        <strong>📦 Repositories</strong><br>
+        <font size="5">5+</font>
+      </td>
+      <td align="center" width="200">
+        <strong>⚡ Status</strong><br>
+        <font size="5">Active</font>
+       </td>
+      <td align="center" width="200">
+        <strong>🎯 Focus</strong><br>
+        <font size="5">FullStack</font>
+       </td>
+    </tr>
+   </table>
+
+  <br/>
+
+  <!--- Tech Stack --->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <code>PHP</code> • <code>Python</code> • <code>JavaScript</code><br>
+        <code>Laravel</code> • <code>Django</code> • <code>Tailwind</code>
+       </td>
+    </tr>
+   </table>
+
+  <br/>
+
+  <!--- Featured Projects --->
+  <table align="center">
+    <tr>
+      <td align="center">
+        🛒 &nbsp; <strong>E-Commerce</strong> &nbsp; |
+        📊 &nbsp; <strong>Dashboard</strong> &nbsp; |
+        📋 &nbsp; <strong>Task Manager</strong> &nbsp; |
+        🌐 &nbsp; <strong>Portfolio CMS</strong>
+       </td>
+    </tr>
+   </table>
+
+  <br/>
+
+  <!--- Decorative Line --->
+  <img src="https://custom-icon-badges.demolab.com/badge/-------------------------*-*?color=6366f1&style=flat-square"/>
+
+  <br/>
+
+  <!--- Status Message --->
+  <sub>
+    ⚠️ <em>GitHub API sedang rate-limited — statistik detail akan muncul dalam beberapa jam</em>
+  </sub>
+
+  <br/><br/>
+
+  <!--- Profile Views --->
+  <img src="https://komarev.com/ghpvc/?username=salmanaf855-ship-it&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
+  
+  <br/>
+
+  <!--- Social Badges --->
+  <a href="mailto:salmanaf855@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/salm4n_4f">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/salmanaf855-ship-it">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
+
 </div>
 
 ---
