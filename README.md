@@ -1,10 +1,6 @@
 <h1 align="center">👨‍💻 Salman Al Farisi</h1>
 <p align="center">Crafting digital solutions with modern tech stacks — passionate about clean code, scalable systems, and intuitive user experiences.</p>
 
-<p align="center">
- 
-</p>
-
 ---
 
 ## 🚀 Tech Stack & Tools
@@ -39,6 +35,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6"/>
 </p>
 
@@ -74,14 +71,9 @@
   </a>
 </p>
 
-
 <p align="center"><i>"Code is poetry — each function tells a story."</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmanaf855-ship-it&color=blueviolet&style=flat"/>
   <img src="https://img.shields.io/github/followers/salmanaf855-ship-it?label=Follow&style=social"/>
 </p>
-
-
-
-tambahin pie chart dengan html 90% css 70% tailwind 30% python 30% laravel 50% php 50% dan database mysql 60%
