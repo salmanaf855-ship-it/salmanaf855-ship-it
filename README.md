@@ -58,10 +58,7 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</div>
+
 
 <br/>
 
