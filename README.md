@@ -39,12 +39,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salmanaf855-ship-it&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanaf855-ship-it&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanaf855&theme=radical&hide_border=true&background=00000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanaf855-ship-it&theme=radical&hide_border=true&background=00000000"/>
 </p>
 
 ---
@@ -79,8 +79,8 @@
 <p align="center"><i>"Code is poetry — each function tells a story."</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanaf855&color=blueviolet&style=flat"/>
-  <img src="https://img.shields.io/github/followers/salmanaf855?label=Follow&style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=salmanaf855-ship-it&color=blueviolet&style=flat"/>
+  <img src="https://img.shields.io/github/followers/salmanaf855-ship-it?label=Follow&style=social"/>
 </p>
 
 
