@@ -59,21 +59,32 @@
 # 📊 GitHub Analytics
 
 <div align="center">
+
+| 📦 Total Repositories | ⚡ Status | 🎯 Focus |
+|:---:|:---:|:---:|
+| **5+** | **Active** | **FullStack** |
+
+| 💻 Tech Stack | 🚀 Projects |
+|:---:|:---:|
+| PHP • Python • JavaScript • Laravel • Django | E-Commerce • Dashboard • CMS |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>
+    ⚠️ GitHub API saat ini sedang rate-limited.  
+    Statistik detail (commits, stars, dll) akan muncul otomatis dalam beberapa jam.
+  </i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=6366f1&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsalmanaf855-ship-it&logo=github&style=for-the-badge"/>
   
-  **Repositori:** `5+` &nbsp;|&nbsp; **Status:** `Active` &nbsp;|&nbsp; **Fokus:** `FullStack Development`
-  
-  ---
-  
-  **Tech Stack:** `PHP` • `Python` • `JavaScript` • `Laravel` • `Django` • `Tailwind`
-  
-  ---
-  
-  **Projects:** `E-Commerce Platform` • `Analytics Dashboard` • `Task Management App` • `Portfolio CMS`
-  
-  ---
-  
-  > ⚠️ *GitHub API sedang rate-limited. Statistik detail akan muncul dalam beberapa jam.*
-  
+  <img src="https://img.shields.io/badge/dynamic/json?color=10b981&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsalmanaf855-ship-it&logo=github&style=for-the-badge"/>
 </div>
 
 ---
